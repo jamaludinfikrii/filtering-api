@@ -11,4 +11,14 @@ var hasilFilter = arrObj.filter((val) => {
 })
 
 
+
+
+var a = 'as'
+var b = 'as'
+
+if(a && b){
+    console.log('ada')
+}
+
+
 console.log(arrObj[0].nama.toLowerCase().startsWith('br'))
